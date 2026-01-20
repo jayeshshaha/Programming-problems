@@ -6,7 +6,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Q2.Execute();
+            Q3.Execute();
         }
     }
 }
