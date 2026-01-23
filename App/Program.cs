@@ -1,4 +1,5 @@
 ﻿using App.D1_Simple_Number_Problems;
+using App.D2_Conditions___Logic;
 
 namespace App
 {
@@ -6,7 +7,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Q11.Execute();
+            Q12.Execute();
         }
     }
 }

@@ -13,3 +13,7 @@
 10. Print the cubes of numbers from 1 to N
 11. Print numbers that are both even and perfect squares
 
+
+# D2 - Conditions & Logic
+12. Find the Maximum of Three Numbers
+
