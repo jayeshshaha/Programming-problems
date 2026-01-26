@@ -16,5 +16,5 @@
 
 # D2 - Conditions & Logic
 12. Find the Maximum of Three Numbers
-13. Check if a Number is Positive, Negative, or Zero
+13. Check if a Number is Positive, Negative, or Zero.
 
