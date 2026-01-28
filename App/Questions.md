@@ -17,4 +17,8 @@
 # D2 - Conditions & Logic
 12. Find the Maximum of Three Numbers
 13. Check if a Number is Positive, Negative, or Zero.
+14. Calculate Electricity Bill
+15. Check if a Character is a Vowel or Consonant
+16. Check if a Year is a Leap Year
+17. Check if a Character is Uppercase, Lowercase, Digit, or Special Character
 
