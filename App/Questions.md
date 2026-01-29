@@ -21,4 +21,4 @@
 15. Check if a Character is a Vowel or Consonant
 16. Check if a Year is a Leap Year
 17. Check if a Character is Uppercase, Lowercase, Digit, or Special Character
-
+18. Check Triangle Type Using Sides and Angles
