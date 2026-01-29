@@ -5,21 +5,20 @@ namespace App.D2_Conditions___Logic
     {
         public static void CheckTriangleType(int a, int b, int c)
         {
-           a *= a;
-           b *= b;
-           c *= c;
-           if((a + b) == c){
-            Console.WriteLine("Right-angled");
-           }
-           else if( a == b && a == c && b == a && b == c && c == a && c == b){
+          if(a == b && b == c){
              Console.WriteLine("Equilateral");
            }
-           else if((a == b || a == c ) || (b == a || b == c) || (c == a || c == b)){
+           else if(a == b || b == c || a == c){
              Console.WriteLine("Isosceles");
            } else {
-            Console.WriteLine("Scalene");
+               if(((a * a)+ (b * b)) == (c * c)){
+                   Console.WriteLine("Right-angled");
+               } else{
+               Console.WriteLine("Scalene");
+               }
            }
         }
+        
         public static void Execute()
         {
             CheckTriangleType(3,9,5);
