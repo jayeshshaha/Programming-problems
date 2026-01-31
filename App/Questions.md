@@ -23,3 +23,6 @@
 17. Check if a Character is Uppercase, Lowercase, Digit, or Special Character
 18. Check Triangle Type Using Sides and Angles
 19. Calculate Income Tax Based on Slabs
+
+# D3 - Loops & Patterns
+20. Print Right-Angled Star Triangle
