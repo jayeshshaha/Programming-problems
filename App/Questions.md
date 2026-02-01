@@ -26,3 +26,4 @@
 
 # D3 - Loops & Patterns
 20. Print Right-Angled Star Triangle
+21. Print Inverted Right-Angled Triangle
