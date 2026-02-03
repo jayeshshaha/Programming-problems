@@ -28,3 +28,4 @@
 20. Print Right-Angled Star Triangle
 21. Print Inverted Right-Angled Triangle
 22. Print Pyramid Pattern
+23. Print Inverted Pyramid Pattern
