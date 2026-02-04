@@ -29,3 +29,4 @@
 21. Print Inverted Right-Angled Triangle
 22. Print Pyramid Pattern
 23. Print Inverted Pyramid Pattern
+24. Print Hollow Square Pattern

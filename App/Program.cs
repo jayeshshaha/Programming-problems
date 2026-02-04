@@ -8,7 +8,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Q23.Execute();
+            Q24.Execute();
         }
     }
 }
