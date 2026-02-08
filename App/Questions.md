@@ -30,3 +30,10 @@
 22. Print Pyramid Pattern
 23. Print Inverted Pyramid Pattern
 24. Print Hollow Square Pattern
+25. Print Hollow Pyramid Pattern
+26. 
+
+
+# D4 - Decimal Number System
+27. Split Number into Digits
+28. 
