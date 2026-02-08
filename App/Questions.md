@@ -37,3 +37,4 @@
 # D4 - Decimal Number System
 27. Split Number into Digits
 28. Reverse a number
+29. Remove the Decimal Point Mathematically
