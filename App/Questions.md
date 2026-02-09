@@ -38,3 +38,4 @@
 27. Split Number into Digits
 28. Reverse a number
 29. Remove the Decimal Point Mathematically
+30. Separate Whole and Fractional Parts of a Number
