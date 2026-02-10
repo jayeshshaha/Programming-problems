@@ -39,3 +39,4 @@
 28. Reverse a number
 29. Remove the Decimal Point Mathematically
 30. Separate Whole and Fractional Parts of a Number
+31. Generate a Decimal Number from Whole and Fractional Digits
