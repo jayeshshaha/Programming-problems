@@ -40,3 +40,7 @@
 29. Remove the Decimal Point Mathematically
 30. Separate Whole and Fractional Parts of a Number
 31. Generate a Decimal Number from Whole and Fractional Digits
+32. 
+33. Check if a Number is an Armstrong Number (also called a Narcissistic Number)
+34. Find the Sum of Digits
+35. Find the Average of Digits
