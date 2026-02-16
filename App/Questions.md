@@ -45,3 +45,4 @@
 34. Find the Sum of Digits
 35. Find the Average of Digits
 36. Find the Largest and Smallest Digit in a Number
+37. Check if a Number is a Strong Number
