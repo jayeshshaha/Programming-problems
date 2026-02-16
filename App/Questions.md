@@ -44,3 +44,4 @@
 33. Check if a Number is an Armstrong Number (also called a Narcissistic Number)
 34. Find the Sum of Digits
 35. Find the Average of Digits
+36.
