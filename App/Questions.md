@@ -47,3 +47,4 @@
 36. Find the Largest and Smallest Digit in a Number
 37. Check if a Number is a Strong Number
 38. Find the Frequency of Each Digit
+39. Check if a Number is an Automorphic Number
