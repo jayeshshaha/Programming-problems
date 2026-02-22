@@ -2,6 +2,7 @@
 using App.D2_Conditions___Logic;
 using App.D3__Loops___Patterns;
 using App.D4_Decimal_Number_System;
+using App.D5_Factors___Multiples;
 
 namespace App
 {
@@ -9,7 +10,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-           Q39.Execute();
+           Q42.Execute();
         }
     }
 }
