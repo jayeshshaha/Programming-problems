@@ -53,3 +53,4 @@
 # D5 - Factors & Multiples
 41. Print All Factors of a Number
 42. Print All Multiples of a Number up to N
+43. Find the HCF (Highest Common Factor) or GCD of Two Numbers
