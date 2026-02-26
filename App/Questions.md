@@ -54,3 +54,8 @@
 41. Print All Factors of a Number
 42. Print All Multiples of a Number up to N
 43. Find the HCF (Highest Common Factor) or GCD of Two Numbers
+44. Find the LCM (Least Common Multiple) of Two Numbers
+
+
+# D6 - D6 Prime & Fibonacci
+45. Check if a Number is Prime
