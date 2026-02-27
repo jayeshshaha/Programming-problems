@@ -11,7 +11,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-           Q46.Execute();
+           Q47.Execute();
         }
     }
 }
